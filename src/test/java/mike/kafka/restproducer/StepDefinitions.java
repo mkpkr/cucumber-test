@@ -17,7 +17,7 @@ public class StepDefinitions {
 	
 	@Given("a message with topic {string}")
 	public void createMessageWithTopic(String topic) {
-	    // Write code here that turns the phrase above into concrete actions
+		// Write code here that turns the phrase above into concrete actions
 	    throw new io.cucumber.java.PendingException();
 	}
 
